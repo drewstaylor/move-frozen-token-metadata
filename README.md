@@ -8,8 +8,11 @@ Transaction Digest: 4LgExfCm7qCJGnWUxPim8Mcsevhf1kPwvdaVj68zLc5F
 
 **Transaction Data:**
 Sender: 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707
+
 Gas Owner: 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707
+
 Gas Budget: 100000000 MIST
+
 Gas Price: 1000 MIST
 
 **Gas Payment:**
