@@ -1,0 +1,15 @@
+[package]
+name = "frozen_token_metadata"
+version = "0.1.0"
+edition = "2024"
+authors = ["drew@interoplabs.io"]
+
+[dependencies]
+
+[addresses]
+frozen_token_metadata = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]
+
