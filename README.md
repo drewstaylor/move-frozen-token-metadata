@@ -13,51 +13,51 @@ Transaction Digest: 4LgExfCm7qCJGnWUxPim8Mcsevhf1kPwvdaVj68zLc5F
 - Gas Price: 1000 MIST 
 
 **Gas Payment:**
-ID: 0x37744cd8632d27e0fdca94c8d466747fc481ba9d17dc58fb082b19b160ac8e1c
-Version: 349179865
-Digest: mqDKXqq45hN2BUSh91gCsG1yyMPaG1a9XxwnMZMEgWp
-Transaction Kind: Programmable
-Input Objects
+- ID: 0x37744cd8632d27e0fdca94c8d466747fc481ba9d17dc58fb082b19b160ac8e1c
+- Version: 349179865
+- Digest: mqDKXqq45hN2BUSh91gCsG1yyMPaG1a9XxwnMZMEgWp
+- Transaction Kind: Programmable
+- Input Objects
  0   Pure Arg: Type: address, Value: "0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707"                                                                                                    
-Commands    
+- Commands    
  0  Publish:
 
 **Dependencies:**
- 0x0000000000000000000000000000000000000000000000000000000000000001
- 0x0000000000000000000000000000000000000000000000000000000000000002
+- 0x0000000000000000000000000000000000000000000000000000000000000001
+- 0x0000000000000000000000000000000000000000000000000000000000000002
  
 **TransferObjects:**
-  Arguments: 
-    Result 0
-    Address: Input  0
+-  Arguments: 
+    * Result 0
+    * Address: Input  0
 
-  Signatures:
+-  Signatures:
     4DLOhbQpEJxZ4f1bvEuTvP/+8hHNUfmqJUqXPetENqFth3WqoxlMu1lZUCoYVhy+qnsn4VJK8S4oWglXzzOYBw==
 
 **Transaction Effects:**
-Digest: 4LgExfCm7qCJGnWUxPim8Mcsevhf1kPwvdaVj68zLc5F
-Status: Success
-Executed Epoch: 770
+- Digest: 4LgExfCm7qCJGnWUxPim8Mcsevhf1kPwvdaVj68zLc5F
+- Status: Success
+- Executed Epoch: 770
 
 **Created Objects:**
 
-ID: 0x46928f514ba43818062f3e05b2c42d4331a6c3e0fa88fb939f49d232b34b6091
-Owner: Immutable
-Version: 349179866
-Digest: BxMLqLecXHMgz8QtTXENeT3oDHJvzC7x9EsmboDSM7fT
-ID: 0xd8c24d949018958e41d958393b559daf8ea5e313cf91801bd4c5a220fa2710ae
-Owner: Account Address ( 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707 )
-Version: 349179866
-Digest: A9KvjqwxFp2PfTyCdUibxSJZF35jNvwUR8RbhreUyD6W
-ID: 0xd9c655e0bf1d9c55d7995300917444f8c2daf073d0c89266d768946f0400e8e1
-Owner: Account Address ( 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707 )
-Version: 349179866
-Digest: GqSPLVbWp5NAP74SgYCkt4ycP8ujdDWZqAET9zAHJatE
+- ID: 0x46928f514ba43818062f3e05b2c42d4331a6c3e0fa88fb939f49d232b34b6091
+- Owner: Immutable
+- Version: 349179866
+- Digest: BxMLqLecXHMgz8QtTXENeT3oDHJvzC7x9EsmboDSM7fT
+- ID: 0xd8c24d949018958e41d958393b559daf8ea5e313cf91801bd4c5a220fa2710ae
+- Owner: Account Address ( 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707 )
+- Version: 349179866
+- Digest: A9KvjqwxFp2PfTyCdUibxSJZF35jNvwUR8RbhreUyD6W
+- ID: 0xd9c655e0bf1d9c55d7995300917444f8c2daf073d0c89266d768946f0400e8e1
+- Owner: Account Address ( 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707 )
+- Version: 349179866
+- Digest: GqSPLVbWp5NAP74SgYCkt4ycP8ujdDWZqAET9zAHJatE
 
-ID: 0xef0980a9ecbc2dabbe865d95124929cbda72238def9e8242a702459f49818f5b
-Owner: Immutable
-Version: 1
-Digest: HH2zzEcPLvbRL7V6b8fKLPBSmKd9g3rUe4QNmkZqsg8L
+- ID: 0xef0980a9ecbc2dabbe865d95124929cbda72238def9e8242a702459f49818f5b
+- Owner: Immutable
+- Version: 1
+- Digest: HH2zzEcPLvbRL7V6b8fKLPBSmKd9g3rUe4QNmkZqsg8L
 
 **Mutated Objects:**
 ID: 0x37744cd8632d27e0fdca94c8d466747fc481ba9d17dc58fb082b19b160ac8e1c
