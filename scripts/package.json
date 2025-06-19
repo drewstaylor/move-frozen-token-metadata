@@ -1,0 +1,26 @@
+{
+  "name": "sui-query-token",
+  "version": "1.0.0",
+  "description": "Query sui token metadata over rpc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewstaylor/move-frozen-token-metadata.git"
+  },
+  "keywords": [
+    "Sui"
+  ],
+  "type": "module",
+  "author": "drew@interoplabs.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drewstaylor/move-frozen-token-metadata/issues"
+  },
+  "homepage": "https://github.com/drewstaylor/move-frozen-token-metadata#readme",
+  "dependencies": {
+    "@mysten/sui": "^1.33.0"
+  }
+}
