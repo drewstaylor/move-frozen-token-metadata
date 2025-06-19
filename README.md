@@ -6,13 +6,13 @@ See: [AXE-9689](https://axelarnetwork.atlassian.net/browse/AXE-9689)
 
 Transaction Digest: 4LgExfCm7qCJGnWUxPim8Mcsevhf1kPwvdaVj68zLc5F
 
-Transaction Data:
+**Transaction Data:**
 Sender: 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707
 Gas Owner: 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707
 Gas Budget: 100000000 MIST
 Gas Price: 1000 MIST
 
-Gas Payment:
+**Gas Payment:**
 ID: 0x37744cd8632d27e0fdca94c8d466747fc481ba9d17dc58fb082b19b160ac8e1c
 Version: 349179865
 Digest: mqDKXqq45hN2BUSh91gCsG1yyMPaG1a9XxwnMZMEgWp
@@ -22,11 +22,11 @@ Input Objects
 Commands    
  0  Publish:
 
-Dependencies:
+**Dependencies:**
  0x0000000000000000000000000000000000000000000000000000000000000001
  0x0000000000000000000000000000000000000000000000000000000000000002
  
-TransferObjects:
+**TransferObjects:**
   Arguments: 
     Result 0
     Address: Input  0
@@ -34,12 +34,12 @@ TransferObjects:
   Signatures:
     4DLOhbQpEJxZ4f1bvEuTvP/+8hHNUfmqJUqXPetENqFth3WqoxlMu1lZUCoYVhy+qnsn4VJK8S4oWglXzzOYBw==
 
-Transaction Effects:
+**Transaction Effects:**
 Digest: 4LgExfCm7qCJGnWUxPim8Mcsevhf1kPwvdaVj68zLc5F
 Status: Success
 Executed Epoch: 770
 
-Created Objects:
+**Created Objects:**
 
 ID: 0x46928f514ba43818062f3e05b2c42d4331a6c3e0fa88fb939f49d232b34b6091
 Owner: Immutable
@@ -59,19 +59,19 @@ Owner: Immutable
 Version: 1
 Digest: HH2zzEcPLvbRL7V6b8fKLPBSmKd9g3rUe4QNmkZqsg8L
 
-Mutated Objects:
+**Mutated Objects:**
 ID: 0x37744cd8632d27e0fdca94c8d466747fc481ba9d17dc58fb082b19b160ac8e1c
 Owner: Account Address ( 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707 )
 Version: 349179866
 Digest: FR5u7LY8k4y41WLxHvz95JbPnHGefSDF3BN9pfcgUgrJ
 
-Gas Object:
+**Gas Object:**
 ID: 0x37744cd8632d27e0fdca94c8d466747fc481ba9d17dc58fb082b19b160ac8e1c
 Owner: Account Address ( 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707 )
 Version: 349179866
 Digest: FR5u7LY8k4y41WLxHvz95JbPnHGefSDF3BN9pfcgUgrJ
 
-Gas Cost Summary:
+**Gas Cost Summary:**
    Storage Cost: 15587600 MIST
    Computation Cost: 1000000 MIST
    Storage Rebate: 978120 MIST
@@ -81,8 +81,8 @@ Transaction Dependencies:
    6pZ2bpkwLwnCH4qdHS1NcJypXLFUNvSHRKfKXhZvXQuo
    8GxJsh2Z34PMNFNDbAjFgwYvFjfoFmGkKK5F61m9zaPn
 
-Object Changes
-Created Objects:
+**Object Changes**
+**Created Objects:**
  
 ObjectID: 0x46928f514ba43818062f3e05b2c42d4331a6c3e0fa88fb939f49d232b34b6091
 Sender: 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707
@@ -107,7 +107,7 @@ ObjectType: 0x2::coin::TreasuryCap<0xef0980a9ecbc2dabbe865d95124929cbda72238def9
 Version: 349179866
 Digest: GqSPLVbWp5NAP74SgYCkt4ycP8ujdDWZqAET9zAHJatE
 
-Mutated Objects:
+**Mutated Objects:**
  
 ObjectID: 0x37744cd8632d27e0fdca94c8d466747fc481ba9d17dc58fb082b19b160ac8e1c
 Sender: 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707
@@ -116,7 +116,7 @@ ObjectType: 0x2::coin::Coin<0x2::sui::SUI>
 Version: 349179866
 Digest: FR5u7LY8k4y41WLxHvz95JbPnHGefSDF3BN9pfcgUgrJ
 
-Published Objects:
+**Published Objects:**
  
 PackageID: 0xef0980a9ecbc2dabbe865d95124929cbda72238def9e8242a702459f49818f5b
 Version: 1
@@ -124,7 +124,7 @@ Digest: HH2zzEcPLvbRL7V6b8fKLPBSmKd9g3rUe4QNmkZqsg8L
 Modules: COIN
 
 
-Balance Changes
+**Balance Changes**
  
 Owner: Account Address ( 0x76f89a9b56dc580aed9f97e2b3bd03d8d24464e38522da9464c15103761c6707 )
 CoinType: 0x2::sui::SUI
