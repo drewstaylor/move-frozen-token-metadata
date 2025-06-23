@@ -5,7 +5,8 @@ use sui::coin::{Self, Coin, TreasuryCap};
 use sui::event;
 use sui::url::Url;
 
-const EInvalidAmount: u64 = 0;
+#[error]
+const EInvalidAmount: vector<u8> = b"amount must be greater than 0";
 
 public struct COIN has drop {}
 
